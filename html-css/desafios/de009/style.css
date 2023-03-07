@@ -5,7 +5,11 @@
             text-align: center;
             color: white;
         }
-        div{
-            width: 100vw;
-            height: 100vh;
+        
+        main > ul > li{
+            margin: auto;
         }
+        li{
+            margin: auto;
+        }
+        
